@@ -5,7 +5,7 @@
 After this lesson, you should be able to...
 xzx 
 1. Create a `has_many` and `belongs_to` association.
-2. Build associated data through the console and `db/seeds.rb`.
+2. Build associated dataskbf through the console and `db/seeds.rb`.
 3. Query for associated data using methods provided by association.
 4. Embed association data within views.
 5. Iterate over associated data within a view displaying individual instances.
